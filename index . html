@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cyber Guard AI</title>
+</head>
+<body>
+    <h1>Cyber Guard AI</h1>
+    <p>AI-powered cybersecurity awareness project.</p>
+
+    <h2>Cyber Safety Tips</h2>
+    <ul>
+        <li>Never share your password.</li>
+        <li>Use strong and unique passwords.</li>
+        <li>Do not click suspicious links.</li>
+        <li>Enable two-factor authentication.</li>
+    </ul>
+</body>
+</html>
